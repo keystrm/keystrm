@@ -1,0 +1,28 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="100" cy="100" r="50" fill="dodgerblue">
+        <animate
+            attributeName="r"
+            from="50"
+            to="60"
+            dur="1s"
+            begin="0s"
+            repeatCount="indefinite"
+            fill="freeze"
+            restart="always"
+            calcMode="spline"
+            keyTimes="0;1"
+            keySplines="0.1 0.7 0.1 0.7"
+            />
+        <animate
+            attributeName="opacity"
+            from="1"
+            to="0.5"
+            dur="1s"
+            begin="0s"
+            repeatCount="indefinite"
+            fill="freeze"
+            restart="always"
+            calcMode="linear"
+            />
+    </circle>
+</svg>

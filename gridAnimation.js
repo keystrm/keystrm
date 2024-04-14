@@ -2,17 +2,17 @@ const svgNS = "http://www.w3.org/2000/svg";
 
 // Create SVG element
 let svgElem = document.createElementNS(svgNS, "svg");
-svgElem.setAttribute("width", "200");
-svgElem.setAttribute("height", "200");
-svgElem.setAttribute("viewBox", "0 0 200 200");
+svgElem.setAttribute("width", "600");
+svgElem.setAttribute("height", "100");
+svgElem.setAttribute("viewBox", "0 0 600 100");
 svgElem.setAttribute("xmlns", svgNS);
 
 // Create grid of rectangles
-for (let i = 0; i < 20; i++) {
-    for (let j = 0; j < 10; j++) {
+for (let i = 0; i < 55; i++) {
+    for (let j = 0; j < 7; j++) {
         let rect = document.createElementNS(svgNS, "rect");
-        rect.setAttribute("x", i * 20);
-        rect.setAttribute("y", j * 20);
+        rect.setAttribute("x", i * 15);
+        rect.setAttribute("y", j * 15);
         rect.setAttribute("width", "10");
         rect.setAttribute("height", "10");
         rect.setAttribute("fill", "#216e39");

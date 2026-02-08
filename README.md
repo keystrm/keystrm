@@ -1,7 +1,24 @@
-- 👋 Hey there! I'm @keystrm a.k.a. Solitude Alien 👽
-- 🌍 Passionate about: Programming, Traveling, Robotics... and anything that pushes boundaries 🚀
-- 💻 Currently crafting magic as a Vue.js & Laravel Software Developer... soon to be a Nuxt.js wizard 🧙‍♂️
-- 🤝 Always up for collaboration on exciting projects—if it’s challenging, I’m in! 💪
+```txt
+┌──────────────────────────────────────────────┐
+│  keystrm // solitude_alien 👽               │
+└──────────────────────────────────────────────┘
+```
+
+### → code • cloud • curiosity
+
+```txt
+stack {
+  language:  ts | js
+  frontend:  nuxt
+  cloud:     aws
+  infra:     terraform
+}
+```
+---
+
+💻 Software Engineer focused on modern web + cloud  
+🚀 Interested in meaningful, challenging projects  
+🤝 Open for collaboration
 
 <!---
 keystrm/keystrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
